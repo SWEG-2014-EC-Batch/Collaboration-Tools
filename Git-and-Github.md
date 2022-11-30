@@ -44,18 +44,70 @@ In order to learn how to use GitHub flow with your team:
 - Read [How to use GitHub flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md), which will guide you through the entire concept.
 - Skim through the [Multiple pull requests within one repo](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/multiple_pull_requests.md) article. You will see a reminder about that process in your first projects.
 
-### Git Familiar with Git Basic Commannds
+### Get Familiar with Git Basic Commannds
 - [ ]  [Free play with Git](http://git-school.github.io/visualizing-git/) - Use this visualizer to understand the basic Git commands listed below.
-    - *Copy the following Git commands one-by-one into the visualizer and check out what happens to the repository:*
-- [] [Git--distributed-is-the-new-centralized](https://git-scm.com/)
-- [] [Git Hub Docs](https://docs.github.com/en)
+    - *Expand the Git Basic Command below and copy the following Git commands one-by-one into the visualizer and check out what happens to the repository:*
+    -git commit -m "Second commit"
+    <details id=112>
+       <summary><h4>Basic Git Commands </h4></summary>
+    
+        git commit -m "Third commit"
+        git log
+
+        git branch
+        git branch my-feature
+        git branch
+
+        git checkout my-feature
+        git log
+
+        git commit -m "Fourth commit"
+        git commit -m "Fifth commit"
+        git log
+
+        git checkout master
+        git log
+        git branch my-second-feature
+        git commit -m "Sixth commit"
+        git commit -m "Seventh commit"
+        git log
+
+        git checkout my-feature
+        git branch bug-fix
+        git branch
+
+        git commit -m "Eighth commit"
+        git commit -m "Ninth commit"
+        git log
+
+        git checkout bug-fix
+        git commit -m "Tenth commit"
+        git log
+
+        git checkout my-feature
+        git log
+
+        git merge bug-fix
+        git checkout my-feature
+        git log
+        git commit -m "Eleventh commit"
+        git log
+
+        git checkout master
+        git log
+
+        git merge my-feature
+        git log
+    </details>
+
 
 ### Additional materials
 
 **These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
 - [Atlassian's "Git feature branch workflow" article](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).
-
+- ![Git--distributed-is-the-new-centralized](https://git-scm.com/)
+- ![Git Hub Docs](https://docs.github.com/en)
 
 # Introduction to GitHub
 
