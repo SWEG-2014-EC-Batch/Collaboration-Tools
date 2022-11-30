@@ -16,7 +16,6 @@ Now that you are in Slack and familiar with the channels at Microverse, it's imp
 **Learn more about expectations for professionalism on Slack:**
 
 - [Professionalism guidelines in Slack](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/professionalism-guidelines-in-slack.md)
-- [Student Handbook](https://microverse.zendesk.com/hc/en-us/categories/4411268097043-Student-Handbook-) - see especially the guidelines for [Professional communication](https://microverse.zendesk.com/hc/en-us/articles/8984932078739-Professional-Behavior)
 
 ### Additional materials
 
