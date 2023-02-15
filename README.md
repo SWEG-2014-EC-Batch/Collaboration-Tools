@@ -1,4 +1,4 @@
 ## Outline
 
-- [Basics of Git Hub](./Slack)
-- [Install C and C++ Compilers on Windows](./Install_C_and_C++_Compilers_on-Windows.md)
+- [Get Familiar with Slack](./Slack)
+- [Git & GitHub & GitHub flow](./Git-and-Github.md)
